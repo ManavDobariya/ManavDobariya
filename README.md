@@ -1,7 +1,7 @@
 # Hi there, I'm Manav! 👋
 
 I am a passionate **Web Developer** based in **Surat, India**. 🇮🇳
-I am currently focusing on the **MERN Stack** and love creating smooth, interactive user experiences. As a beginner, I am constantly learning and building new things.
+<br>I am currently focusing on the **MERN Stack** and love creating smooth, interactive user experiences. As a beginner, I am constantly learning and building new things.
 
 ---
 
